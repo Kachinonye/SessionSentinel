@@ -1,0 +1,19 @@
+🧾 SESSION MONITOR REPORT - Fri Jun 27 10:08:30 AM WAT 2025
+-----------------------------------------
+
+👤 LOGGED-IN USERS:
+
+📊 USER SESSIONS (via w):
+ 10:08:30 up 14 min,  0 user,  load average: 0.00, 0.08, 0.13
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+
+🕑 RECENT LOGINS:
+
+🔐 SSH SESSIONS:
+No SSH sessions.
+
+🛡️ SUDO ACTIVITY (last 5):
+
+🚨 MONITORED USER ALERTS:
+✔️  'root' is not logged in.
+✔️  'admin' is not logged in.
